@@ -1,2 +1,3 @@
 # TaskTracker
-this is the project of tracking our tasks
+this is the project of tracking our tasks.
+Author-TarunVanka
